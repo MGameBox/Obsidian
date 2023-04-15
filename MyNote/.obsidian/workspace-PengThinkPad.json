@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "db71efe87d9719f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "48f99a5e958ab885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "536589cb797cb4e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/Obsidian+腾讯云图床(COS)+PicGo 搭建图床(202302) - 知乎.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "096b80a0ab5b318c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cefebccc4c1f5bb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "782899fc7d6efc8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aad2fc0a68657e7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2362149c4f361a8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 459.5
+  },
+  "right": {
+    "id": "d4f84f87114ea8e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a64796a6793b972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad5d472dfbb758be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "编程/Obsidian+腾讯云图床(COS)+PicGo 搭建图床(202302) - 知乎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd445e722d9295e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "编程/Obsidian+腾讯云图床(COS)+PicGo 搭建图床(202302) - 知乎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c2a83f1320c97c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "086963a4fa493ff7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "编程/Obsidian+腾讯云图床(COS)+PicGo 搭建图床(202302) - 知乎.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "536589cb797cb4e2",
+  "lastOpenFiles": [
+    "Obsidian+腾讯云图床(COS)+PicGo 搭建图床(202302).md",
+    "Unity3d/技巧/Unity3D调整挂载到对象上的材质属性，并实现不影响其他对象.md",
+    "Unity3d/技巧/Unity3D 拆包工具 AssetStudio 编译构建_Jaihk662的博客-CSDN博客.md",
+    "2023-04-14.md",
+    "音乐",
+    "设计",
+    "理财",
+    "灵感",
+    "日志",
+    "AI效率革命",
+    "绘画/像素画学习体会-如何练习 - 知乎.md",
+    "绘画",
+    "大师谈游戏设计，创意与节奏  （日-吉泽秀雄）-幕布图片-200420-940858.jpg).md",
+    "大师谈游戏设计，创意与节奏.md",
+    "读书笔记/游戏设计/大师谈游戏设计，创意与节奏  （日-吉泽秀雄）.md",
+    "读书笔记/游戏设计/大师谈游戏设计，创意与节奏  （日-吉泽秀雄）-幕布图片-130740-721415.jpg",
+    "读书笔记/理财/有钱人和你想的不一样2 （日-中野祐治）.md",
+    "读书笔记/游戏设计/大师谈游戏设计，创意与节奏  （日-吉泽秀雄）-幕布图片-941837-357718.jpg",
+    "读书笔记/游戏设计/大师谈游戏设计，创意与节奏  （日-吉泽秀雄）-幕布图片-859645-254873.jpg",
+    "读书笔记/游戏设计/大师谈游戏设计，创意与节奏  （日-吉泽秀雄）-幕布图片-741777-170443.jpg",
+    "读书笔记/游戏设计/大师谈游戏设计，创意与节奏  （日-吉泽秀雄）-幕布图片-718378-556651.jpg",
+    "读书笔记/游戏设计/大师谈游戏设计，创意与节奏  （日-吉泽秀雄）-幕布图片-639704-988551.jpg",
+    "读书笔记/游戏设计/大师谈游戏设计，创意与节奏  （日-吉泽秀雄）-幕布图片-629264-743825.jpg",
+    "读书笔记/游戏设计/大师谈游戏设计，创意与节奏  （日-吉泽秀雄）-幕布图片-541520-687891.jpg",
+    "读书笔记/游戏设计/大师谈游戏设计，创意与节奏  （日-吉泽秀雄）-幕布图片-383825-283330.jpg",
+    "读书笔记/游戏设计/大师谈游戏设计，创意与节奏  （日-吉泽秀雄）-幕布图片-200420-940858.jpg",
+    "读书笔记/游戏设计",
+    "读书笔记/理财/有钱人和你想的不一样（美-哈维.艾克）.md",
+    "编程/Obsidian+腾讯云图床(COS)+PicGo 搭建图床(202302) - 知乎.md",
+    "建模/Blender建模技巧.md",
+    "读书笔记/理财",
+    "读书笔记",
+    "未归档/人工智能Ai画画——stable diffusion 原理和使用方法详解！ - 知乎.md",
+    "未命名.md",
+    "アナログ 戦場の女神 - テンキアメ（てんきあめ）的插画.jpg.md",
+    "2023-04-13.md"
+  ]
+}
